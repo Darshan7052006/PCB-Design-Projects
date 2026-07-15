@@ -2952,7 +2952,7 @@
 		)
 		(uuid "f798fd41-a447-4637-a473-0bac3e7d9bed")
 	)
-	(label "PWR_out_top"
+	(label "PWR_output"
 		(at 181.61 50.8 0)
 		(effects
 			(font
@@ -2992,7 +2992,7 @@
 		)
 		(uuid "40651298-de8e-4de9-b80b-8bbef1afffe8")
 	)
-	(label "PWR_out_bottom"
+	(label "PWR_output"
 		(at 180.34 91.44 0)
 		(effects
 			(font
