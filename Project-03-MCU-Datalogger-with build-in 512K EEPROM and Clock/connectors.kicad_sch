@@ -1132,7 +1132,7 @@
 		)
 		(uuid "81c082ed-d5bd-4483-8f87-8b1cee9be74e")
 	)
-	(hierarchical_label "SCK"
+	(hierarchical_label "SCL"
 		(shape passive)
 		(at 123.19 88.9 0)
 		(effects
@@ -1318,7 +1318,7 @@
 				)
 			)
 		)
-		(property "Description" "UART SERIAL"
+		(property "Description" "I2C"
 			(at 119.38 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1595,7 +1595,7 @@
 				)
 			)
 		)
-		(property "Description" "I2C"
+		(property "Description" "SERIAL"
 			(at 138.43 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
