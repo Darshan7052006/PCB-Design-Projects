@@ -1,0 +1,12 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,Description
+J1,1,ESP32 LEFT CONNECTOR,,,,Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical,,"Generic connector, single row, 01x15, script generated"
+J2,1,ESP32 RIGHT CONNECTOR,,,,Connector_PinSocket_2.54mm:PinSocket_1x15_P2.54mm_Vertical,,"Generic connector, single row, 01x15, script generated"
+J3,1,DHT11 CONNECTOR,,,,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,,"Generic connector, single row, 01x03, script generated"
+J4,1,ULTRASONIC SENSOR CONNECTOR,,,,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,,"Generic connector, single row, 01x04, script generated"
+J5,1,Conn_01x02_Socket,,,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,"Generic connector, single row, 01x02, script generated"
+J6,1,MQ-2 CONNECTOR,,,,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,,"Generic connector, single row, 01x03, script generated"
+J7,1,SOS BUTTON CONNECTOR,,,,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,"Generic connector, single row, 01x02, script generated"
+J8,1,MPU6050-CONNECTOR,,,,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,,"Generic connector, single row, 01x05, script generated"
+Q1,1,Q_NPN_BCE,,,,Package_TO_SOT_THT:TO-92_Inline,,"NPN transistor, base/collector/emitter"
+"R1,R2,R3,R4,R5,R6",6,10kohms,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,Resistor
+R7,1,1kohms,,,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,Resistor
