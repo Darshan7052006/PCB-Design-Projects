@@ -556,7 +556,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "D:/GITHUB REPOSITORIES/PCB-Design-Projects/Project-02-Solar-Power-Supply/GERBER FILES/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -568,7 +568,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "D:\\GITHUB REPOSITORIES\\PCB-Design-Projects\\Project-02-Solar-Power-Supply\\BOM\\Project-02-Solar-Power-Supply.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -704,7 +704,7 @@
         "uuid": "002d5274-41d5-4d2a-8f39-f33568e25d6b"
       }
     ],
-    "used_designators": "R1-4,#FLG1,J1-4,C1-3,Q1,D1-2,L1,U1-2,#PWR1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

@@ -544,7 +544,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "D:/GITHUB REPOSITORIES/PCB-Design-Projects/Project-03-MCU-Datalogger-with build-in 512K EEPROM and Clock/GERBER FILES/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -556,7 +556,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "D:\\GITHUB REPOSITORIES\\PCB-Design-Projects\\Project-03-MCU-Datalogger-with build-in 512K EEPROM and Clock\\BOM\\MCU-Datalogger-with build-in 512K EEPROM and Clock.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -707,7 +707,7 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
